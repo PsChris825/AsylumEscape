@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PlaceHolder",
+			"Path": "A:\\GDC_GameProject\\GDC-GAME-PROJECT\\PlaceHolder\\Source\\PlaceHolder.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PlaceHolderEditor",
+			"Path": "A:\\GDC_GameProject\\GDC-GAME-PROJECT\\PlaceHolder\\Source\\PlaceHolderEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

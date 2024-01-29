@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "a:\\gdc_gameproject\\gdc-game-project\\placeholder\\source\\placeholder\\placeholdergamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "a:\\gdc_gameproject\\gdc-game-project\\placeholder\\intermediate\\build\\win64\\placeholdereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "a:\\gdc_gameproject\\gdc-game-project\\placeholder\\intermediate\\build\\win64\\unrealeditor\\development\\placeholder\\definitions.placeholder.h",
+            "a:\\gdc_gameproject\\gdc-game-project\\placeholder\\source\\placeholder\\placeholdergamemodebase.h",
+            "a:\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "a:\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "a:\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "a:\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "a:\\gdc_gameproject\\gdc-game-project\\placeholder\\intermediate\\build\\win64\\unrealeditor\\inc\\placeholder\\uht\\placeholdergamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PlaceHolder.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"A:\GDC_GameProject\GDC-GAME-PROJECT\PlaceHolder\Intermediate\Build\Win64\PlaceHolderEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"A:\GDC_GameProject\GDC-GAME-PROJECT\PlaceHolder\Intermediate\Build\Win64\UnrealEditor\Development\PlaceHolder\PlaceHolder.init.gen.cpp.obj"
+"A:\GDC_GameProject\GDC-GAME-PROJECT\PlaceHolder\Intermediate\Build\Win64\UnrealEditor\Development\PlaceHolder\PlaceHolderGameModeBase.gen.cpp.obj"
+"A:\GDC_GameProject\GDC-GAME-PROJECT\PlaceHolder\Intermediate\Build\Win64\UnrealEditor\Development\PlaceHolder\PlaceHolder.cpp.obj"
+"A:\GDC_GameProject\GDC-GAME-PROJECT\PlaceHolder\Intermediate\Build\Win64\UnrealEditor\Development\PlaceHolder\PlaceHolderGameModeBase.cpp.obj"
+"A:\GDC_GameProject\GDC-GAME-PROJECT\PlaceHolder\Intermediate\Build\Win64\UnrealEditor\Development\PlaceHolder\Default.rc2.res"
+/OUT:"A:\GDC_GameProject\GDC-GAME-PROJECT\PlaceHolder\Intermediate\Build\Win64\UnrealEditor\Development\PlaceHolder\UnrealEditor-PlaceHolder.lib"

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "a:\\gdc_gameproject\\gdc-game-project\\placeholder\\source\\placeholder\\placeholder.cpp",
+        "ProvidedModule": "",
+        "PCH": "a:\\gdc_gameproject\\gdc-game-project\\placeholder\\intermediate\\build\\win64\\placeholdereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "a:\\gdc_gameproject\\gdc-game-project\\placeholder\\intermediate\\build\\win64\\unrealeditor\\development\\placeholder\\definitions.placeholder.h",
+            "a:\\gdc_gameproject\\gdc-game-project\\placeholder\\source\\placeholder\\placeholder.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,20 @@
+{
+	"configurations": [
+		{
+			"name": "PlaceHolderEditor Editor Win64 Development (PlaceHolder)",
+			"compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe",
+			"cStandard": "c17",
+			"cppStandard": "c++17",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "A:\\GDC_GameProject\\GDC-GAME-PROJECT\\PlaceHolder\\.vscode\\compileCommands_PlaceHolder.json"
+		},
+		{
+			"name": "Win32",
+			"compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe",
+			"cStandard": "c17",
+			"cppStandard": "c++17",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "A:\\GDC_GameProject\\GDC-GAME-PROJECT\\PlaceHolder\\.vscode\\compileCommands_Default.json"
+		}
+	]
+}

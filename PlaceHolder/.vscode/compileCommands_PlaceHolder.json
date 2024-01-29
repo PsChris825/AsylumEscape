@@ -1,0 +1,42 @@
+[
+	{
+		"file": "A:\\GDC_GameProject\\GDC-GAME-PROJECT\\PlaceHolder\\Source\\PlaceHolder\\PlaceHolder.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe",
+			"@A:\\GDC_GameProject\\GDC-GAME-PROJECT\\PlaceHolder\\.vscode\\compileCommands_PlaceHolder\\PlaceHolder.255.rsp"
+		],
+		"directory": "A:\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "A:\\GDC_GameProject\\GDC-GAME-PROJECT\\PlaceHolder\\Source\\PlaceHolder\\PlaceHolder.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe",
+			"@A:\\GDC_GameProject\\GDC-GAME-PROJECT\\PlaceHolder\\.vscode\\compileCommands_PlaceHolder\\PlaceHolder.255.rsp"
+		],
+		"directory": "A:\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "A:\\GDC_GameProject\\GDC-GAME-PROJECT\\PlaceHolder\\Source\\PlaceHolder\\PlaceHolder.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe",
+			"@A:\\GDC_GameProject\\GDC-GAME-PROJECT\\PlaceHolder\\.vscode\\compileCommands_PlaceHolder\\PlaceHolder.255.rsp"
+		],
+		"directory": "A:\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "A:\\GDC_GameProject\\GDC-GAME-PROJECT\\PlaceHolder\\Source\\PlaceHolder\\PlaceHolderGameModeBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe",
+			"@A:\\GDC_GameProject\\GDC-GAME-PROJECT\\PlaceHolder\\.vscode\\compileCommands_PlaceHolder\\PlaceHolder.255.rsp"
+		],
+		"directory": "A:\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "A:\\GDC_GameProject\\GDC-GAME-PROJECT\\PlaceHolder\\Source\\PlaceHolder\\PlaceHolderGameModeBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe",
+			"@A:\\GDC_GameProject\\GDC-GAME-PROJECT\\PlaceHolder\\.vscode\\compileCommands_PlaceHolder\\PlaceHolder.255.rsp"
+		],
+		"directory": "A:\\UE_5.1\\Engine\\Source"
+	}
+]
