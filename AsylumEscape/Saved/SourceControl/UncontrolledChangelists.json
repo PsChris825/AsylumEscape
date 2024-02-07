@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"A:/GDC_GameProject/GDC-GAME-PROJECT/AsylumEscape/Content/HighMeadow/HighMeadow.umap"
+				"A:/GDC_GameProject/GDC-GAME-PROJECT/AsylumEscape/Content/HighMeadow/HighMeadow.umap",
+				"A:/GDC_GameProject/GDC-GAME-PROJECT/AsylumEscape/Content/EscapeRoomPack/EscapeRoomPack/BallStatue.uasset",
+				"A:/GDC_GameProject/GDC-GAME-PROJECT/AsylumEscape/Content/EscapeRoomPack/EscapeRoomPack/Material_002.uasset"
 			]
 		}
 	]
